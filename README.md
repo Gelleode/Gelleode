@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gelleode
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning C++, C#, Web-Design
+- 🌱 I’m currently learning Python, C++, C#, Web-Design
 - 📫 How to reach me? Idk yet
 <!---
 Gelleode/Gelleode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
